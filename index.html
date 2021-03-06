@@ -10,44 +10,7 @@
       <button id = "snap">Capture</button>
     </div>
     <canvas id="canvas" width="640" height="480"></canvas>
-    <script>
-    'use strict';
-    const video = document.getElementById('video');
-    const camvas = document.getElementById('canvas');
-    const snap = document.getElementById('snap');
-    const errorMsgElement = document.getElementById('spanErrorMsg');
-    
-    const contraints = {
-      audio: true,
-      video:
-      {
-        width: 1280, height: 720
-      }
-    };
-    
-    async function init(){
-      try{
-        const stream = await navigator.mediaDevices.getUserMedia(constraints);
-        handleSuccess(stream);
-      }
-      catch(e)
-      {
-        errorMsgElement.innerHTML = 'navigator.getUserMedia.error:${e.toString()}';
-      }
-   }
-   
-    function handleSuccess(stream){
-        window.stream = stream;
-      video.srcObject=stream;
-    }
-    
-    init();
-    
-    var context = canvas.getContext('2d');
-    snap.addEventListener("click",function(){
-        context.drawImage(video,0,0,640,480);
-    });
-      
+    <script src="app.js">
     </script>
     </body>
 </html>
