@@ -1,0 +1,34 @@
+h1 {text-align:center; font-family:Sans; color:#ffffff; } 
+h2 {text-align:center; font-family:Sans; color:#b5b5b5; } 
+p {text-align:left; font-family:Sans; color:#FFFFFF; } 
+#timetable {
+  font-family: Sans;
+  border-collapse: collapse;
+  width: 100%;
+  empty-cells: show; 
+}
+          
+#timetable td, #timetable th {
+  border: 2px solid #ddd;
+  padding: 8px;
+}
+         
+#timetable tr {background-color: #303030; color:#FFFFFF; text-align: center; }
+          
+#timetable tr:hover {background-color: #023963; }
+
+          
+#timetable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  empty-cells: show; 
+  text-align: center;
+  background-color: #0067b5;
+  color: white;
+}
+
+a:link {
+	color: #008aed;
+	background-color; transparent;
+	text-decoration: none;
+}
