@@ -1,0 +1,2 @@
+- First pdf -> Basic Learning rules, Unconstrained Optimization
+- 

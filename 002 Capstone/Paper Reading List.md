@@ -1,0 +1,3 @@
+- [ ] [Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG](https://arxiv.org/pdf/1703.05051.pdf)
+- [ ] [Learning temporal information for brain‑computer interface using convolutional neural networks](https://dr.ntu.edu.sg/bitstream/10356/87699/1/Learning%20Temporal%20Information%20for%20Brain-Computer%20Interface%20Using%20Convolutional%20Neural%20Networks%20.pdf) 
+	- Seems like nice paper for us.

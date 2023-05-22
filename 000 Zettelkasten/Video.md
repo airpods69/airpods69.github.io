@@ -1,0 +1,5 @@
+- **Video** -> Pictorial (visual) information including still and time-varying images.
+- **Still Images** -> Spatial distribution of intensity which remains constant with time.
+- **Time-Varying Images** -> Spatial distribution of intensity is not constant with time.
+- A time-varying image is a spatio-temporal intensity pattern which can be denoted by $s_c(x_1, x_2, t)$ where $x_1$, $x_2$ are spatial parameters and $t$ is temporal parameter.
+- Video were traditionally recorded and sent in the form of [[Analog Video).

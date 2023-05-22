@@ -1,0 +1,1 @@
+Since all mental operations take time, Donders proposed that differences in human reaction time could be used to infer differences in mental processing.

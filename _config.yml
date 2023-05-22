@@ -1,0 +1,36 @@
+title: "My Notes"
+name: "Stash trasher than weed"
+baseurl: ""
+url: "https://airpods69.github.io/"
+description: "I am lazy to make pdfs so here are the links"
+logo_url: "https://avatars.githubusercontent.com/u/26499754?v=4"
+author_name: "Airpods69"
+footer: "Airpods's Stash"
+header_pages:
+  - index.md
+  - about.md
+# remote_theme: dirkfabisch/mediator
+#remote_theme: bradleytaunt/ET-Jekyll
+style: dark
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-remote-theme
+#remote_theme: heiswayi/the-plain
+#remote_theme: cotes2020/jekyll-theme-chirpy
+# remote_theme: mattr/darkmattr
+remote_theme: mmistakes/so-simple-theme
+# remote_theme: dracula/gh-pages
+#remote_theme: sharadcodes/jekyll-theme-dark-reader
+#remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: P0WEX/Gesko
+#remote_theme: ngzhio/jekyll-theme-hamilton
+#remote_theme: b2a3e8/jekyll-theme-console

@@ -1,0 +1,1 @@
+- A [[Planar Graph) is called Maximal planar if adding an edge between any two non-adjacent vertices results in a non-planar graph.
