@@ -8,6 +8,7 @@ author_name: "Airpods69"
 footer: "Airpods's Stash"
 header_pages:
   - about.md
+  - index.md
 # remote_theme: dirkfabisch/mediator
 #remote_theme: bradleytaunt/ET-Jekyll
 style: dark
