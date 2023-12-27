@@ -1,3 +1,0 @@
-- It is a circuit that uses every edge in the graph with no repeats. Being a circuit, it must start and end at the same vertex.
-- Also known as Euler Cycle or Euler Tour.
-- Closed [[Eular Path) is called a Euler Circuit.

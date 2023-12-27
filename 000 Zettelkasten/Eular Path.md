@@ -1,2 +1,0 @@
-- If there exists a path in the connected graph that visits every edge of the graph exactly once with or without repeating the vertices, then it is a Eular walk.
-- **NOTE**: A graph will contain euler path if and only if it contains at most two vertices of odd degree.

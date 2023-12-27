@@ -1,1 +1,0 @@
-EEG signals are assumed to be stationary. And also to analyse the frequency, [[Power Spectrum) analyse karke dekhle ([[Short Time Fourier Transform)).
