@@ -12,7 +12,7 @@ I was an intern at [RediMinds Inc.](https://rediminds.com) (Check those guys out
 
 
 ### Latest
-My latest interest is in Vulkan programming using Rust language and my goal is to create an accelerated mathematical library using that. Let's see how that boat sails. Learning this for developing a personal framework for GPU accelerated maths with a vulkan background.
+My latest interest is in Vulkan programming using Rust language and my goal is to create an accelerated mathematical library using that. Let's see how that boat sails. Learning this for developing a personal framework for GPU accelerated maths with a vulkan background. Check out this [organization which is empty](https://github.com/vul-AI)
 
 ### Past
 I work with almost anything. My recent works were related to Large Language Models and Backend Development. I was also dealing with software architecture related stuff so thats a hat I have put on.
